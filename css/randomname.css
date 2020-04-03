@@ -6,14 +6,14 @@ body{
 }
 
 header{
-    background-color: #d14635;
+    background-color: gray;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
 h1, h2{
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Consolas','Courier', 'Courier New', Courier, monospace;
 }
 
 /* header styles */
@@ -43,7 +43,7 @@ main img{
 
 h2{
     font-size: 30px;
-    color: #e70c19;
+    color: black;
     margin: 40px 0 10px;
 }
 
@@ -55,7 +55,7 @@ a:hover{
     background-color: #483a94;
 }
 footer{
-    background-color: #d14635;
+    background-color: black;
     text-align: center;
     color: white;
     padding: 50px;
